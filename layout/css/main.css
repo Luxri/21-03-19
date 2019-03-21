@@ -1,11 +1,14 @@
 h1 {
     font-family: 'Open Sans', sans-serif;
+    color: #FFF;
 }
 h2 {
     font-family: 'Titillium Web', sans-serif;
+    color: #FFF;
 }
 p {
     font-family: 'Titillium Web', sans-serif;
+    color: #FFF;
 }
 .bd-placeholder-img {
     font-size: 1.125rem;
@@ -27,4 +30,7 @@ p {
     padding-right: 15PX;
     margin-right: auto;
     margin-left: auto;
+}
+body {
+    background-image: url( ../images/background.png);
 }
